@@ -6,7 +6,7 @@
          verbose="true">
     <testsuites>
         <testsuite name="ProjectName">
-            <directory>tests</directory>     
+            <directory>../tests</directory>     
             <!-- <directory suffix="Test.php">tests/unit/</directory>
             <directory suffix="Test.php">tests/integration/</directory>
 -->
